@@ -7,4 +7,4 @@ This is a repo to explain with a few words how to fix it.<br />
 
 1. Add the JFrame elements <br />
 2. Add the Graphics g function and its components <br />
-3. Write the 'setBounds' and add the JFrame comonents AFTER the graphics. You have to do this step INSIDE the Graphics function<br />
+3. Write the 'setBounds' and add the JFrame components AFTER the graphics. You have to do this step INSIDE the Graphics function<br />
